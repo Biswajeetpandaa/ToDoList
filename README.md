@@ -15,7 +15,7 @@ A simple, Java-based Command Line Interface (CLI) application for managing daily
 * **Language:** Java
 * **Data Structure:** `ArrayList` (Java Collections Framework)
 * **Input Handling:** `java.util.Scanner`
-* **Logic:** Uses a `do-while` loop for the application lifecycle and **Enhanced Switch Statements** for menu selection.
+* **Logic:** Uses a `do-while` loop for the application lifecycle and **Enhanced Switch / mordern (that does not need any break statement ) Statements** for menu selection.
 
 ## ⚙️ Prerequisites
 
