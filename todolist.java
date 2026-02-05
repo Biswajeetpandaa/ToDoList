@@ -53,7 +53,7 @@ class ToDoProject
                     System.out.println("The task are : ");
                     for(int i =0 ; i<task.size();i++)
                     {
-                        System.out.println("no : "+ (i+1) + " : "+ task.get(i));
+                        System.out.println("no  "+ (i+1) + " : "+ task.get(i));
                     }
                 }
 
